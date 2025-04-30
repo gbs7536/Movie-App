@@ -1,6 +1,6 @@
 import { Component } from '../core/reina'
-import movieStore from '../store/movie'
 import MovieItem from './MovieItem'
+import movieStore from '../store/movie'
 
 export default class MovieList extends Component {
   constructor() {

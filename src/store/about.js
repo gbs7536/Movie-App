@@ -6,5 +6,5 @@ export default new Store({
   email: 'test@gmail.com',
   blog: 'https://gbs7536.tistory.com/',
   github: 'https://github.com/gbs7536',
-  repository: 'https://github.com/gbs7536/Movie-App',
+  repository: 'https://github.com/gbs7536/Movie-App'
 })

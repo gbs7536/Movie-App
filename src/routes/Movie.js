@@ -18,7 +18,7 @@ export default class Movie extends Component {
     const { movie } = movieStore.state
     const bigPoster = movie.Poster.replace('SX300', 'SX700')
 
-    // this.el.classList.add('container', 'the-movie')
+    this.el.classList.add('container', 'the-movie')
     this.el.innerHTML = /* html */ `
       <div
         style="background-image: url(${bigPoster});"
