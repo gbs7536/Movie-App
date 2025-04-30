@@ -15,5 +15,5 @@ export default new Store<State>({
   email: 'test@gmail.com',
   blog: 'https://gbs7536.tistory.com/',
   github: 'https://github.com/gbs7536',
-  repository: 'https://github.com/gbs7536/Movie-App',
+  repository: 'https://github.com/gbs7536/Movie-App'
 })
